@@ -1,1 +1,3 @@
 11111
+设置远程是ssh的方式
+git remote set-url origin git@github.com:zhengeili/wjwtest.git
